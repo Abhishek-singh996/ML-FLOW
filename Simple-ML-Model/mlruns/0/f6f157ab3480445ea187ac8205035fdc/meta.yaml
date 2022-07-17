@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abhisheksingh/Documents/GitHub/ML-FLOW/Simple-ML-Model/mlruns/0/f6f157ab3480445ea187ac8205035fdc/artifacts
+end_time: 1658066648200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f6f157ab3480445ea187ac8205035fdc
+run_uuid: f6f157ab3480445ea187ac8205035fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658066648137
+status: 3
+tags: []
+user_id: abhisheksingh
